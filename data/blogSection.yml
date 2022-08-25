@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Posts
+
+  We share interesting things as they happen.
+
+buttonTarget: blog

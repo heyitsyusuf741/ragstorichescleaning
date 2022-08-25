@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Us?
+
+testimonial:
+  - name: Julia M.
+    comment: (import customer review)
+    time: Jan 20, 2015
+    star: 5
+  - name: Laurie K.
+    comment: (import customer review)
+    time: Jan 16, 2017
+    star: 5
+  - name: Liz O.
+    comment: (import customer review)
+    time: Mar 08, 2018
+    star: 4

@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle:
+title: >
+  ## Our Services
+
+  No mail-in necessary. We come to you.
+service:
+  - content: >
+      #### Home Cleaning
+
+      (all about cleaning homes)
+    image: images/service/home.svg
+  - content: >
+      #### Office Cleaning
+
+      (all about cleaning offices)
+    image: images/service/office.svg
+  - content: >
+      #### Event Cleaning
+
+      (all about cleaning for events)
+    image: images/service/events.svg

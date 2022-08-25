@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Us
+
+  We are a team of qualified custodial workers based in the Northside of Chicago.
+content: >
+  ### We love to make things shine.
+
+  (more about us coming soon).
+button1Name: Contact Us
+button2Name: Check Availability
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

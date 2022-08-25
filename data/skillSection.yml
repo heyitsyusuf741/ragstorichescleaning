@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Comparison
+content: >
+  ## How do we stack up?
+
+  With as much care and attention as we give to each job, our prices are still 20% cheaper.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Service Grade
+    percent: 96
+  - title: Price Comparison
+    percent: 78
+  - title: Availability
+    percent: 85
